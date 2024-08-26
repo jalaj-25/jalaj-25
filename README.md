@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -22,7 +21,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a software developer specializing in web development and data science. I enjoy working on open-source projects and learning new technologies.
+I'm a software developer specializing in web development. I enjoy working on open-source projects and learning new technologies.
+
+👯 I’m looking to collaborate on web devlepoment porjects.
 
 <div align="center">
   <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jalaj-singhal-2a7574287/)">
@@ -68,6 +69,10 @@ I'm a software developer specializing in web development and data science. I enj
 
 ## 📫 Contact
 
-Feel free to reach out to me at jalajsinghal25@gmail.com.
+Mail: jalajsinghal25@gmail.com. 
+
+LinkedIn: https://www.linkedin.com/in/jalaj-singhal-2a7574287/.
 
 Project Link: https://github.com/jalaj-25
+
+Portfolio: https://portfolio-jalaj.netlify.app/
