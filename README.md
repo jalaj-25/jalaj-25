@@ -18,6 +18,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Jalaj;Welcome+to+my+GitHub" alt="Typing SVG"/>
   </h1>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="milansinghal2004" /> </p>
 
 ## 🚀 About Me
 
