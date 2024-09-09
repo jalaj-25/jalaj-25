@@ -27,7 +27,7 @@ I'm a software developer specializing in web development. I enjoy working on ope
 👯 I’m looking to collaborate on web devlepoment porjects.
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jalaj-singhal-2a7574287/)">
+  <a href="https://www.linkedin.com/in/jalaj-singhal-2a7574287/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://portfolio-jalaj.netlify.app/">
