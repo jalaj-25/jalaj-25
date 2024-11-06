@@ -7,7 +7,8 @@
 </div>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="jalaj.25" /> 
+<!--   <img src="https://komarev.com/ghpvc/?username=milansinghal2004&label=Profile%20views&color=0e75b6&style=flat" alt="jalaj.25" />  -->
+  <img src="https://komarev.com/ghpvc/?username=jalaj25&label=Profile%20views&color=0e75b6&style=flat" alt="jalaj.25" /> 
 </p>
 
 ## 🚀 About Me
