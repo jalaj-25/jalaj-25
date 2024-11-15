@@ -62,6 +62,8 @@ I'm a passionate software developer specializing in web development. I enjoy wor
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalaj-25&theme=radical" alt="GitHub Streak Stats"/>
 </div>
 
+[![An image of @jalaj_singhal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@milanjalaj3#)](https://www.holopin.io/@milanjalaj3#)
+
 ## 🛠️ Projects
 
 ### 🛠️ HTML Projects
